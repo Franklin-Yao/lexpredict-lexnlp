@@ -98,7 +98,7 @@ setup(
         'numpy==1.19.1',
         'pandas==1.1.3',
         'pycountry==20.7.3',
-        'regex==2020.11.13',
+        'regex',
         'reporters-db==2.0.3',
         'requests==2.24.0',
         'scipy==1.5.1',
